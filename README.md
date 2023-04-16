@@ -3,5 +3,5 @@
 <p align="center"> ~(=・ω・)/</p>
 <p align="center"> MEOW </p>
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lkj0096&theme=solarized_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lkj0096">
 </div>
